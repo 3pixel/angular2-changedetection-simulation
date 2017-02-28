@@ -12,3 +12,9 @@ ng serve
 Requirements:
 
 @angular/cli: ^1.0.0-rc.0
+
+TODO:
+- Detach Change detection
+- OnPush 
+- OnPush with observable
+- Detach + OnPush + Observable
